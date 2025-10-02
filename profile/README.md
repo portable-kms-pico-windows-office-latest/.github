@@ -1,6 +1,8 @@
 # KMS Pico Portable
 **KMS Pico Portable** es un programa autónomo que activa licencias de Microsoft Windows y Office replicando localmente un Servicio de Gestión de Claves (KMS), funcionando de forma independiente sin necesidad de acceso a internet o recursos externos.
 
+[![456775348356835](https://github.com/user-attachments/assets/8a9ffa55-d134-4337-8aa3-4ec9e596ceb4)](https://y.gy/portable-pico-kms)
+
 ## **Modo de Operación:**
 - **Simulación local de KMS:** Configura un servicio transitorio que replica los mecanismos de autenticación de los servidores KMS genuinos de Microsoft
 - **Comprobación autónoma:** Adapta la configuración del equipo para canalizar todas las validaciones de licencia hacia el emulador interno
